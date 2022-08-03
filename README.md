@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabecoshen
 - 👀 I’m interested in web development with a focus on backend
-- 🌱 I’m currently learning computer science with a focus on python language at usp
+- 🌱 I’m currently learning computer science with a focus on python language at University of São Paulo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://linktr.ee/gabecoshr
 
